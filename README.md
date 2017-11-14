@@ -12,3 +12,9 @@
  * Ruby 활용 ruby on rails 를 통한 CRUD, MD5를통한 암호화, 쿠키와 세션, 문제풀이
 - day 5 : Ruby
  * Ruby 활용 ruby on rails 를 통한 CRUD, asked 페이지,jackpot페이지, 쿠키와 세션
+## Week 2 :Ruby
+- day 6 : Ruby
+* Ruby : 활용  ruby on rails 를 통한 CRUD, comment, DB association, 
+- day 7 : Ruby
+* Ruby : 활용 authenticity_token,POST 방식,Seed파일에 Faker 넣어서 작업하기,Grid System,
+
