@@ -17,4 +17,9 @@
 * Ruby : 활용  ruby on rails 를 통한 CRUD, comment, DB association, 
 - day 7 : Ruby
 * Ruby : 활용 authenticity_token,POST 방식,Seed파일에 Faker 넣어서 작업하기,Grid System,
-
+- day 8 : Ruby
+* private,Do not Repeat Yourself(DRY), RESTful APi, 페북로그인이되는 페이지, rails data confirm
+- day 9 : RUBY
+* CRUD 사진올리기, vagrant 설치 atom설치, ubuntu 가상환경 설치, atom 환경설치,telegram 챗봇만들기 , json-parser사용하기 
+- day 10: Ruby
+* RUBY : 사진 upload, crawling
